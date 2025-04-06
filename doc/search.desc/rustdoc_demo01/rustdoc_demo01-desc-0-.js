@@ -1,0 +1,1 @@
+searchState.loadedDescShard("rustdoc_demo01", 0, "")
